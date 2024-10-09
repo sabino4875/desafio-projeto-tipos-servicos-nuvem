@@ -58,7 +58,7 @@ No Microsoft Azure, você pode criar máquinas virtuais (VMs) de várias maneira
 1. **Portal do Azure**:
    - Interface gráfica baseada na web para criar e gerenciar VMs.
    - Ideal para usuários que preferem uma abordagem visual e interativa.
-   - [Guia rápido para criar uma VM no portal do Azure](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal)⁴.
+   - [Guia rápido para criar uma VM no portal do Azure](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal).
 
 2. **Azure CLI (Command-Line Interface)**:
    - Ferramenta de linha de comando para gerenciar recursos do Azure.
